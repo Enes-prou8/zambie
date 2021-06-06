@@ -2,7 +2,8 @@
 
 import os
 import subprocess
-from termcolor import colored
+from termcolor 
+import colored
 import sys
 from colors import *
 try:
